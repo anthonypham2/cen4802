@@ -1,2 +1,4 @@
-# hello-word
-Test repository 
+# cen4802
+Author: Anthony Pham
+Spring 2024 semester
+Professor O'Toole
